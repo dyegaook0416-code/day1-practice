@@ -1,1 +1,1 @@
-# day-practice
+# day1-practice
